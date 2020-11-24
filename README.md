@@ -1,4 +1,4 @@
-# pattern_in_python
+# python basic cocepts for beginners
 This repository will give you experience that how to create pattern question in python, here i explained the pattern programs.
 
 It will help for beginners to learn and understand the basic programming in python language. 
